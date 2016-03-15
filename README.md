@@ -22,7 +22,7 @@ just a study in PureScript.
 ABOUT THIS REPOSITORY
 ---
 
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
 
 LICENSE: WTFPL
 ---
